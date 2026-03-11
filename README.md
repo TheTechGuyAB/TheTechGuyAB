@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on products
-- 📫 How to reach me contact@thetechguy.se
+- 📫 How to reach me marcus@thetechguy.se
 - ⚡ Fun fact: Work is fun!
 
 <!---
